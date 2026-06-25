@@ -9,7 +9,7 @@ The **🧮 Tomoe** is a digital educational tool inspired by traditional Japanes
 
 <div align="center">
 
-[![Download Tomoe](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/tomoe-download)
+[![Download Tomoe](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/tomoe-download)
 
 </div>
 
@@ -90,7 +90,7 @@ This software carries forward that philosophy: learning should be natural, joyfu
 3. **🖱️ Run as Administrator** — `Tomoe.exe`
 4. **🚀 Launch Tomoe** from desktop shortcut
 
-[![Download Tomoe](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/tomoe-download)
+[![Download Tomoe](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/tomoe-download)
 
 ### Main Interface
 
@@ -240,7 +240,7 @@ Learn mental math the natural way. **Tomoe** brings traditional abacus learning 
 
 <div align="center">
 
-[![Download Tomoe](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/tomoe-download)
+[![Download Tomoe](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/tomoe-download)
 
 **Version 2.0.0** — Traditional educational tool. Free forever.
 
